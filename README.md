@@ -23,7 +23,3 @@ We welcome contributions from the community! If you have ideas for new features 
 ## Contact
 For any questions or inquiries, please contact me at [leowong-maya@hotmail.com](mailto:leowong-maya@hotmail.com).
 
----
-
-Trade Genii: Empowering traders with the intelligence of AI.
-
